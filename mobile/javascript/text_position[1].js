@@ -1,1 +1,1 @@
-﻿positionForPages[1]={page:1,positions:[{word:"#",left:-0.942882,top:0.944525,width:0.027980,height:0.049665},{word:"hn-f-hv",left:-0.900867,top:0.956829,width:0.050651,height:0.028620},{word:" THE HARVEST    ",left:-0.850216,top:0.955741,width:0.187205,height:0.028971},{word:"VOL: 4 ISSUE: 2 FEBRUARY-MARCH 2021",left:0.075279,top:0.045156,width:0.476948,height:0.024886},{word:"ka-À-¸n-XÀ- ",left:0.544896,top:0.804853,width:0.436409,height:0.097914}]};
+﻿positionForPages[1]={page:1,positions:[]};
